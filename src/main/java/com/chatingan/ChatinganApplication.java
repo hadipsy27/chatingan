@@ -1,0 +1,13 @@
+package com.chatingan;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ChatinganApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ChatinganApplication.class, args);
+	}
+
+}
